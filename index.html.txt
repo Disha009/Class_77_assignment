@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Project On Console</title>
+        <p> Write about Visual Studio, and how to set it up. <br> Write about Console screen, why it is used, how to open Console screen and how to print it. </p>
+    </head>
+    <body>
+        <h1>Open Console</h1>
+        <script>
+            console.log ("Hi! This is my First Console Projecect! :)");
+            var first_name="Disha";
+            console.log(first_name);
+            var last_name="M D";
+            console.log (last_name);
+            var full_name= first_name.concat (last_name);
+            console.log (full_name);
+
+        </script>
+    </body>
+</html>
